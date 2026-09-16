@@ -1,0 +1,10 @@
+{
+  "name": "topcinema-addon",
+  "version": "1.0.0",
+  "description": "TopCinema Stremio Addon",
+  "main": "api/index.js",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.0",
+    "axios": "^1.6.0"
+  }
+}
